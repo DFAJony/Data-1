@@ -1,0 +1,10 @@
+const data = [
+  { label: 'ঢাকা', value: '1' },
+  { label: 'বরিশাল', value: '2' },
+  { label: 'সিলেট', value: '3' },
+  { label: 'চট্টগ্রাম', value: '4' },
+  { label: 'রংপুর', value: '5' },
+  { label: 'খুলনা', value: '6' },
+  { label: 'রাজশাহী', value: '7' },
+  { label: 'Dhaka', value: '8' },
+];
