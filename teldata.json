@@ -1,5 +1,4 @@
-[
-  {
+{
     "discountID": "76586eed-dd0d-4544-b0ac-299d28df0431",
     "discountPercentage": 10,
     "discountTime": "2022-10-20T16:17:01.378522+06:00",
@@ -12,4 +11,4 @@
     "status": "platinum_plus",
     "totalAmount": 2000
   }
-]
+
